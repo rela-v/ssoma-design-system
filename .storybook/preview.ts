@@ -1,15 +1,14 @@
-import type { Preview } from "@storybook/react";
+// .storybook/preview.ts
 
-import '../src/styles/global.css';
+// Replace your-framework with the framework you are using (e.g., react, vue3)
+import { Preview } from '@storybook/your-framework';
+import SsomaTheme from './SsomaTheme';
+import { themes } from '@storybook/theming';
 
 const preview: Preview = {
   parameters: {
-    actions: { argTypesRegex: "^on[A-Z].*" },
-    controls: {
-      matchers: {
-        color: /(background|color)$/i,
-        date: /Date$/,
-      },
+    docs: {
+      theme: SsomaTheme,
     },
   },
 };
