@@ -1,18 +1,17 @@
 import { create } from '@storybook/theming/create';
-
+import logo from './ssoma-logo.svg'
 export default create({
   base: 'light',
   // Typography
   fontBase: '"Urbanist", sans-serif',
   fontCode: 'monospace',
-
-  brandTitle: 'Custom Storybook per Ssoma',
-  brandImage: 'https://github.com/rela-v/ssoma-design-system/blob/main/ssoma-design-system-logo.png',
-  brandTarget: '_self',
+  brandTitle: 'Ssoma Design System',
+  brandUrl: './',
+  brandImage: logo,
 
   //
-  colorPrimary: '#EE233B',
-  colorSecondary: '#AAF3EE',
+  colorPrimary: '#000000',
+  colorSecondary: '#EE233B',
 
   // UI
   appBg: '#ffffff',

@@ -1,14 +1,13 @@
 // .storybook/preview.ts
 
 // Replace your-framework with the framework you are using (e.g., react, vue3)
-import { Preview } from '@storybook/your-framework';
-import SsomaTheme from './SsomaTheme';
-import { themes } from '@storybook/theming';
+import { Preview } from '@storybook/react';
+import ssomaTheme from '../.storybook/ssomaTheme';
 
 const preview: Preview = {
   parameters: {
     docs: {
-      theme: SsomaTheme,
+      theme: ssomaTheme,
     },
   },
 };
