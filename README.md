@@ -1,4 +1,4 @@
-![ssoma-design-system-logo](.storybook/ssoma-logo.svg)
+![ssoma-design-system-logo](ssoma-logo.svg)
 # Ssoma Design System
 
 **ssoma-design-system: "🧠 💬 AI meets you."**
