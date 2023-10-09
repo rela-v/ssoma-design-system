@@ -1,7 +1,7 @@
 ![ssoma-design-system-logo](ssoma-logo.svg)
 # Ssoma Design System
 
-**ssoma-design-system: "🧠 💬 AI meets you."**
+**ssoma-design-system: "🧠 💬 A design system for the era of Trustworthy AI."**
 
 **What is ssoma-design-system?**
 This repo, ssoma-design-system, is an open source project under the MIT license that has a vision of making AI a household product that expands every person’s efforts in word by helping us both convey and understand meanings, and in deed by helping us create tangible outcomes.
