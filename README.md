@@ -52,7 +52,7 @@ After analyzing the current research, and pending the results of ongoing researc
 
 2) Reliability: this addresses technical trustworthiness. It means being *predictable (by the user)*, *accurate (up-to-date)*, *available (responsive and fast)*, *secure (protected against misuse)*, and *robust (shock-tested)*.
 
-3) Flexibility: this means being prepared for what might come in the future, whether that is new evidence which changes the Design System, compliant UIs, or its applications. This implies being *atomic (boiled down to its smallest constituent parts and combined to form more complex structures)*, *loosely coupled (with minimized dependency on other components)*, *configurable (with options for personalization)*, *observable (with systems implemented to track its usage)*, and *agnostic (widely applicable, with a focus on functionality as opposed to implementation)*.
+3) Flexibility: this means being prepared for what might come in the future, whether that is new evidence which changes the Design System, compliant UIs, or its applications. This implies being *atomic (boiled down to its smallest constituent parts and combined to form more complex structures)*, *loosely coupled (with minimized dependency on other components)*, *configurable (with options for personalization)*, *testable (with systems implemented to measure outcomes)*, and *agnostic (widely applicable, with a focus on functionality as opposed to implementation)*.
 
 ## **A Word of Thanks**
 Thank you for your consideration towards this project. I would like to thank my dear and close friends who have supported me throughout my most formative years and encouraged me to pursue this project.
