@@ -2,12 +2,12 @@
 
 // Replace your-framework with the framework you are using (e.g., react, vue3)
 import { Preview } from '@storybook/react';
-import ssomaTheme from '../.storybook/ssomaTheme';
+import SsomaTheme from '../.storybook/SsomaTheme';
 
 const preview: Preview = {
   parameters: {
     docs: {
-      theme: ssomaTheme,
+      theme: SsomaTheme,
     },
   },
 };

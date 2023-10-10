@@ -1,8 +1,8 @@
 // .storybook/manager.js
 
 import { addons } from '@storybook/manager-api';
-import ssomaTheme from './ssomaTheme';
+import SsomaTheme from './SsomaTheme';
 
 addons.setConfig({
-  theme: ssomaTheme,
+  theme: SsomaTheme,
 });
